@@ -1,0 +1,43 @@
+html
+{
+
+    background-image: url("Background-image.png");
+}
+body
+{
+    background-color:whitesmoke;
+    width:600px;
+    height: 550px;
+    margin: 0 auto;
+    padding: 10px 50px 50px 50px;
+    border: 2px solid black;
+    box-shadow: 10px 15px 5px solid rgb(51, 40, 40);
+}
+#mainh{
+font-family:sans-serif;
+    background-color: red;;
+    font-size: 60px;
+    text-align: center;
+    color: #fff;
+    padding: 2px 0px;
+}
+#button
+{
+width:100px;
+margin:100px 250px;
+}
+.container{
+    height: 300px;
+    width: 100%;
+}
+
+#display{
+    width: 100%;
+    font-size: 72px;
+    text-align: center;
+    margin: 1000px 1000px;
+}
+
+.buttons{
+    text-align: center;
+}

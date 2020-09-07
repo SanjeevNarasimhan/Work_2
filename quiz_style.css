@@ -1,0 +1,63 @@
+body{
+    background-image: url("Background-image.png");
+}
+.box{
+    background-color:whitesmoke;
+    width:600px;
+    height: 520px;
+    margin: 0 auto;
+    padding: 10px 50px 50px 50px;
+    border: 2px solid black;
+    box-shadow: 10px 15px 5px solid rgb(51, 40, 40);
+}
+.box h1 {
+    font-family:sans-serif;
+    background-color: red;;
+    font-size: 60px;
+    text-align: center;
+    color: #fff;
+    padding: 2px 0px;
+}
+.box #question {
+    font-family: sans-serif;
+    font-size:30 px;
+    color: black;
+}
+.buttons{
+    margin-top: 30px;
+}
+#btn0,#btn1,#btn2,#btn3{
+    background-color: grey;
+    width: 210px;
+    font-size: 15px;
+    color: #fff;
+    border: 1px solid #1d3c6a;
+    margin:10px 40px 10px 0px;
+    padding: 10px 10px;
+}
+#progress{
+    columns: #2b2b2b;
+    font-size: 15px;
+}
+footer{
+    text-align:center;
+    font-size: 20px;
+}
+#next{
+    background-color: blue;
+    width: 150px;
+    font-size: 15 px;
+    color: #fff;
+    border: 1px solid blueviolet;
+    margin:10px 40px 10px 0px;
+    padding: 10px 10px;
+}
+#previous{
+     background-color: blue;
+        width: 150px;
+        font-size: 15 px;
+        color: #fff;
+        border: 1px solid blueviolet;
+        margin:10px 40px 10px 210px;
+        padding: 10px 10px;
+}
